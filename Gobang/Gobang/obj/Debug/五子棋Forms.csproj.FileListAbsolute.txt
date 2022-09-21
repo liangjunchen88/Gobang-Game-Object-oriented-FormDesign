@@ -1,0 +1,57 @@
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\ResolveAssemblyReference.cache
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.Cache
+E:\C#程序\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+E:\C#程序\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+E:\C#程序\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csprojAssemblyReference.cache
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.cache
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.CoreCompileInputs.cache
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+E:\USC@大学学习文件汇总\C#相关文件汇总\C#实验\C#实验代码\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe.config
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csprojAssemblyReference.cache
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.cache
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.CoreCompileInputs.cache
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+C:\Users\coco\Documents\Tencent Files\1506600281\FileRecv\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe.config
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csprojAssemblyReference.cache
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.cache
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.CoreCompileInputs.cache
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+C:\Users\coco\Desktop\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe.config
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csprojAssemblyReference.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.CoreCompileInputs.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋张\五子棋Forms（张）\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe.config
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.exe
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\bin\Debug\五子棋Forms.pdb
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csprojAssemblyReference.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Form1.resources
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.Properties.Resources.resources
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.GenerateResource.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.csproj.CoreCompileInputs.cache
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.exe
+D:\MMMMMMMMMMM\学习资料\大三上学期\C#程序设计\五子棋\五子棋梁\五子棋 信计81 梁俊琛\五子棋Forms\五子棋Forms\obj\Debug\五子棋Forms.pdb
